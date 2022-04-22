@@ -1,11 +1,16 @@
 _repo: The-Discoveries-of-America-to-the-Year-1525_67766
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 67766-h/images/cover.jpg
 creator:
   author:
     agent_name: Weise, Arthur James
     gutenberg_agent_id: '54447'
     url: http://www.gutenberg.org/2009/agents/54447
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67766#The-Discoveries-of-America-to-the-Year-1525
 gutenberg_issued: '2022-04-03'
 identifiers:
   gutenberg: '67766'
